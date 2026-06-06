@@ -1,0 +1,13 @@
+# 编译产物
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# 系统文件
+Thumbs.db
+Desktop.ini
